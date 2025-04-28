@@ -6,16 +6,16 @@ The goal of this project is to create an Airbnb clone that allows users to manag
 ## Team Roles
 
 ### Backend Developer
-- **Responsibilities**: Responsible for building the server-side logic and API endpoints. Works on setting up Django, creating models, views, and managing API routes.
-
-### Frontend Developer
-- **Responsibilities**: Designs and implements the user interface, integrating it with the backend API to display properties, bookings, and user details.
+- **Responsibilities**: Responsible for implementing API endpoints, database schemas, and business logic. 
 
 ### Database Administrator
-- **Responsibilities**: Manages the database design, optimization, and security. Ensures efficient queries, data integrity, and proper schema setup.
+- **Responsibilities**: Manages database design, indexing, and optimizations.
 
-### Project Manager
-- **Responsibilities**: Oversees the overall progress of the project, ensuring tasks are being completed on time. Coordinates between team members and handles planning.
+### Devops Engineer 
+- **Responsibilities**: Handles deployment, monitoring, and scaling of the backend services.
+
+### QA Engineer
+- **Responsibilities**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
 ## License
 This project is licensed under the MIT License.
