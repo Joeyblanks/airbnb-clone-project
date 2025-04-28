@@ -78,6 +78,3 @@ The goal of this project is to create an Airbnb clone that allows users to manag
 - **Rate Limiting**: Prevents abuse by limiting the number of API requests a user can make in a given time period.
 
 API security is essential to protect sensitive user data, secure financial transactions, and prevent unauthorized access to resources.
-
-## License
-This project is licensed under the MIT License.
