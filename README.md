@@ -52,5 +52,22 @@ The goal of this project is to create an Airbnb clone that allows users to manag
    - Fields: `id`, `user_id (foreign key to Users)`, `amount`, `payment_date`
    - A payment is made by a user for a booking.
 
+## Feature Breakdown
+
+- **User Management**
+  - Allows users to sign up, log in, and manage their profiles.
+
+- **Property Management**
+  - Lets property owners list and manage their properties, including setting the price, location, and availability.
+
+- **Booking System**
+  - Users can book properties, view availability, and manage their bookings.
+
+- **Review System**
+  - Users can leave reviews and ratings for properties they have stayed at.
+
+- **Payment Integration**
+  - Users can make payments for bookings securely using a payment gateway.
+
 ## License
 This project is licensed under the MIT License.
