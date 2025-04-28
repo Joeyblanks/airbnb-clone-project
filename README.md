@@ -69,5 +69,15 @@ The goal of this project is to create an Airbnb clone that allows users to manag
 - **Payment Integration**
   - Users can make payments for bookings securely using a payment gateway.
 
+## API Security
+
+- **Authentication**: Ensures that users are verified through login credentials, such as email and password, before accessing protected resources.
+
+- **Authorization**: Determines what data and actions a user is allowed to access. For example, only the owner of a property can modify its details.
+
+- **Rate Limiting**: Prevents abuse by limiting the number of API requests a user can make in a given time period.
+
+API security is essential to protect sensitive user data, secure financial transactions, and prevent unauthorized access to resources.
+
 ## License
 This project is licensed under the MIT License.
